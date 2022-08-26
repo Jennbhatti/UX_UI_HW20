@@ -1,0 +1,27 @@
+.logo{width: 23%; padding: 1%;
+    margin: 0px;}
+    
+    .Navigation{width: 73%; padding: 1%;}
+    
+    .logo{text-align: center;}
+    .summary{
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+    }
+    .heroimage img{display: inline;
+        padding-right: 20px;
+        float: right;
+    }
+    .Details li{display: flex;
+        flex-direction: row;
+
+    }
+    .Detail ul{display: inline;
+    width: 100%;}
+    .Details{display: flex;
+        flex: row;
+        width: 100%;
+        
+
+    }
